@@ -5,7 +5,7 @@ Implementation for CMU15213/CSAPP labs from [Lab Assignments](http://csapp.cs.cm
 ## Contents
 
 - [ ] Data Lab
-- [ ] Bomb Lab
+- [x] Bomb Lab
 
 - [ ] Attack Lab
 
